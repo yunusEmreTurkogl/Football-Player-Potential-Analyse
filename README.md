@@ -1,6 +1,7 @@
 # Football-Player-Potential-Analyse with Voting Classifier
 # Data Set Variables
 task_response_id: The set of a scout's evaluations of all players in a team's squad in a match
+
 match_id: Id of the relevant match
 evaluator_id: Id of the evaluator (scout)
 player_id: Related player's id
